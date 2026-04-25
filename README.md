@@ -1,14 +1,6 @@
 <h1 align="center">Iduwara Nisal</h1>
 <h3 align="center">Software Developer | Python, AI/ML & Full-Stack Web Technologies</h3>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=iduwaranisal&icon=0&color=0" alt="Profile Views">
-  </a>
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 I am a pragmatic, project-driven developer with a passion for building robust applications and exploring the frontiers of data. I thrive on practical implementation over tutorial-watching, and I frequently collaborate with teams to bring complex, full-stack systems to life. 
