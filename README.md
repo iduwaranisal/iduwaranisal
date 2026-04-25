@@ -57,7 +57,6 @@ I am a pragmatic, project-driven developer with a passion for building robust ap
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iduwaranisal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Iduwara's GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=iduwaranisal&theme=dark&hide_border=false" alt="Iduwara's Streak Stats" />
 </div>
 <br/>
 <div align="center">
