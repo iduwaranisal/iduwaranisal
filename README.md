@@ -1,74 +1,55 @@
-<h1 align="center">Iduwara Nisal</h1>
-<h3 align="center">Software Developer | Python, AI/ML & Full-Stack Web Technologies</h3>
+පැහැදිලියි. Computer Vision ඉවත් කරලා, Machine Learning සහ Deep Learning පැත්තට විතරක් focus කරලා මම මේක update කළා. ඒ වගේම ඔබ ඉල්ලුවා වගේ **PyTorch** badge එකත් Tech Stack එකට ඇතුළත් කරලා තියෙනවා.
 
-### 👨‍💻 About Me
+මෙන්න අලුත් README එක:
 
-I am a pragmatic, project-driven developer with a passion for building robust applications and exploring the frontiers of data. I thrive on practical implementation over tutorial-watching, and I frequently collaborate with teams to bring complex, full-stack systems to life. 
+```markdown
+# Hi there, I'm Iduwara Nisal Palihawadana 👋 🚀
 
-- 🐍 **Primary Focus:** Deeply engaged with **Python** and **Django**, actively expanding my skill set to transition into **Data Science, Artificial Intelligence, and Machine Learning**.
-- 💻 **Current Engineering:** Developing scalable web platforms—including a professional vehicle service system using **Next.js, Clerk, and Supabase**—while also diving into Java backend development with **Spring Boot**.
-- 🏗️ **Core Stack:** Highly proficient in the **MERN stack** and modern front-end frameworks.
-- 👔 **Entrepreneurship:** Founder of **Awex Apparel**, an IT-themed clothing brand designed specifically for developers.
-- ⚡ **Beyond Coding:** When I'm away from the keyboard, you can find me weightlifting at the gym, playing open-world action games, or producing thriller content for my mystery YouTube channel.
+### Aspiring AI Engineer | Machine Learning Enthusiast 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💫 About Me
+I am an aspiring **AI Engineer** based in Sri Lanka, deeply passionate about Artificial Intelligence, Machine Learning, and Data Science. With a strong academic foundation in Information Systems from the **Sabaragamuwa University of Sri Lanka** and Geographical Information Science (GIS) from the **University of Peradeniya**, I blend analytical problem-solving with robust software engineering practices.
 
-**Core & Future Focus:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" title="Python" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="django logo" title="Django" />
-</div>
+Coming from a solid background in Full-Stack Development, I am currently dedicating my focus entirely to deep learning architectures, neural networks, and intelligent system designs. 
 
-<br/>
+- 🔭 **Current Focus:** Expanding expertise in Machine Learning, Deep Learning, and integrating AI models (like the Gemini API) into scalable applications.
+- ⚙️ **Technical Background:** Python ecosystem, Data Science workflows, AI-assisted development, alongside foundational Full-Stack experience.
+- 🌱 **Currently Learning:** Advanced deep learning roadmaps, PyTorch, and AI engineering best practices.
 
-**Full-Stack & Core Languages:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" title="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" title="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" title="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring boot logo" title="Spring Boot" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" title="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" title="Kotlin" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" title="Git" />
-</div>
+---
+
+### 🚀 Tech Stack & Tools
+
+**AI, Machine Learning & Data Science:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Software Engineering & Backend:**
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & AI Integration:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github%20copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-AI-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
 ### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iduwaranisal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Iduwara's GitHub Stats" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iduwaranisal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iduwaranisal&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Iduwara's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iduwaranisal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+### 🤝 Connect with Me
+- **LinkedIn:** [linkedin.com/in/iduwara-nisal](https://linkedin.com) *(Update with your link)*
+- **Email:** *(Update with your email)*
 
-<div align="left">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-</div>
+```
