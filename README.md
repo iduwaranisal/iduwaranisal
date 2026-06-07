@@ -1,8 +1,3 @@
-පැහැදිලියි. Computer Vision ඉවත් කරලා, Machine Learning සහ Deep Learning පැත්තට විතරක් focus කරලා මම මේක update කළා. ඒ වගේම ඔබ ඉල්ලුවා වගේ **PyTorch** badge එකත් Tech Stack එකට ඇතුළත් කරලා තියෙනවා.
-
-මෙන්න අලුත් README එක:
-
-```markdown
 # Hi there, I'm Iduwara Nisal Palihawadana 👋 🚀
 
 ### Aspiring AI Engineer | Machine Learning Enthusiast 
